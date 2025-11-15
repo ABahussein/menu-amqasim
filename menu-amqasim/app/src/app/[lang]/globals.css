@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+   /* Default colors */
+   --bg-color: #eee;
+   --text-color: #333;
+   --product-card-bg-color: #b8e5ff;
+   --category-card-bg-color: #b8e5ff;
+   --utility-color: #456274;
+}
+
+.container {
+   max-width: 800px;
+   margin: 0 auto;
+}
